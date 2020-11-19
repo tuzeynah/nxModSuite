@@ -1,12 +1,12 @@
-# nxmodsuite
+# nxmodsuite 🪐
 
 depends: spigot (1.7 \ 1.8), custom core
 
-# commands
+# commands 💫
 
 disguise,freeze,masssay,more and sudo
 
-# example
+# example 🌈
 
 some examples using disguise
 

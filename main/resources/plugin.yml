@@ -1,0 +1,16 @@
+name: nxModSuite
+main: me.dexter.modsuite.nxModSuite
+version: 1.0.0
+author: dexter vulgo tuzeynah
+description:  'nxModSuite Utils Plugin'
+
+commands:
+  more:
+  sudo:
+  masssay:
+  disguise:
+    aliases: [d]
+  und:
+    aliases: [unnick, undisguise, und, ud]
+  disguiselist:
+    aliases: [dislist]

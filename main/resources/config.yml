@@ -1,0 +1,25 @@
+## nxmodsuite
+
+settings:
+  command:
+    more:
+      must-hold-item: '&cYou must hold a item.'
+      give: '&aThere you go.'
+    massay:
+      forced: '&aYou force everyone to say %message%'
+    sudo:
+      forced: '&aForced target to chat!'
+      cant-sudo:
+        yourself: '&cYou can''t sudo yourself.'
+  join-message:
+    enabled: false
+    message:
+      - "&8&m-----------------------------------------"
+      - "       &fWelcome to &6NX Practice&f.          "
+      - " "
+      - "&6&l● &fWebsite: &6Coming Soon."
+      - "&6&l● &fStore: &6Coming Soon."
+      - "&6&l● &fDiscord: &6Https://invite.gg/nxprac"
+      - "&6&l● &fNX Client: &6Currently in development."
+      - ""
+      - "&8&m-----------------------------------------"

@@ -7,7 +7,7 @@ depends: spigot (1.7 \ 1.8), custom core
 
 disguise,freeze,masssay,more and sudo
 
-# example 🌈
+# example ⭐️
 
 some examples using disguise
 

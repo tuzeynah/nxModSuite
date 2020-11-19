@@ -1,5 +1,6 @@
 # nxmodsuite 🪐
 
+utils plugin
 depends: spigot (1.7 \ 1.8), custom core
 
 # commands 💫
